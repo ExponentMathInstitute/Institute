@@ -1,0 +1,11 @@
+@import url(styles.css);
+
+.search-form button{
+    color: var(--dark-blue) !important;
+    border-color: var(--dark-blue) !important;
+}
+.search-form button:hover{
+    background-color: var(--dark-blue) !important;
+    border-color: var(--dark-blue) !important;
+    color: white !important;
+}
